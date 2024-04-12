@@ -1,0 +1,71 @@
+/*Body*/
+body {
+    background-color: #000000;
+    font-family: "Raleway", sans-serif;
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
+
+/*Nav*/
+.img-logo {
+    height: 50px;
+}
+
+.font-viajeschile {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "Raleway", sans-serif;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+/*QUIÉNES SOMOS*/
+h1 {
+    text-align: center;
+}
+
+.i {
+    text-align: center;
+    background-color: #0DCAF0;
+    font-size: 25px;
+}
+
+#titulo {
+    font-size: 10px;
+}
+
+/*Cards*/
+.card-body {
+    background-color: #0DCAF0;
+}
+
+
+/*Footer*/
+footer {
+    background-color: #0DCAF0;
+    color: #ffffff;
+    font-size: 30px;
+    height: 120px;
+}
+
+.contenido-footer {
+    padding-top: 40px;
+}
+
+.social {
+    text-align: right;
+}
+
+.section1,
+.section2,
+.section3,
+.section4,
+.section5,
+.section6,
+.section7 {
+    background-color: #000000;
+    color: #ffffff;
+    padding-bottom: 40px;
+    font-family: "Raleway", sans-serif;
+}
